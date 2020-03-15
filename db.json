@@ -13,6 +13,9 @@
       "title": "Post 3"
     }
   ],
+  "students" :[
+    { "id": 1, "name": "student 1" }
+  ]
   "comments": [
     {
       "id": 1,
