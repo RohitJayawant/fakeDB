@@ -1,6 +1,17 @@
 {  
   "students": [
-    { "id": 1, "name": "student 1" }
+    { "id": 1, "name": "student 1" },
+    { "id": 2, "name": "student 2" },
+    { "id": 3, "name": "student 3" },
+    { "id": 4, "name": "student 4" },
+    { "id": 5, "name": "student 5" },
+    { "id": 6, "name": "student 6" },
+    { "id": 7, "name": "student 7" },
+    { "id": 8, "name": "student 8" },
+    { "id": 9, "name": "student 9" },
+    { "id": 10, "name": "student 10" },
+    { "id": 11, "name": "student 11" },
+    { "id": 12, "name": "student 12" }
   ],  
   "profile": {
     "name": "typicode"
